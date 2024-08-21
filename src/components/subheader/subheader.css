@@ -1,0 +1,16 @@
+.subheader__container{
+    width:100vw;
+    height:15rem; 
+    overflow: hidden; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.5;
+}
+
+.subheader__container h2{
+    font-size: 2rem;
+}
+
